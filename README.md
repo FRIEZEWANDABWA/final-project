@@ -17,8 +17,7 @@ The project is built using FastAPI and includes user authentication, post/commen
 1. Clone the repository
 
 ```bash
-git clone git@github.com:Tgithinji/blog_api.git
-cd blog_api
+https://github.com/FRIEZEWANDABWA/final-project.git
 ```
 
 2. Create and start a virtual environment
